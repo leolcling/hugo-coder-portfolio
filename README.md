@@ -19,7 +19,7 @@ To use `hugo-coder-portfolio` go through the following steps.
 Clone this repository into your Hugo project.
 
 ```
-git clone https://github.com/naro143/hugo-coder-portfolio themes/coder-portfolio
+git clone https://github.com/leolcling/hugo-coder-portfolio themes/coder-portfolio
 ```
 
 ### Configuration
